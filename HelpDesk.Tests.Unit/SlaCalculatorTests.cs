@@ -3,8 +3,6 @@ using HelpDesk.Core.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using HelpDesk.Core.Enums;
-using HelpDesk.Core.Services;
 using Xunit;
 
 namespace HelpDesk.Tests.Unit
