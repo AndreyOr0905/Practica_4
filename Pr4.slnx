@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HelpDesk.Core/HelpDesk.Core.csproj" />
+  <Project Path="HelpDesk.Data/HelpDesk.Data.csproj" Id="5037155e-2044-43a8-ae3d-2a8afd25b21e" />
+  <Project Path="HelpDesk.Tests.Unit/HelpDesk.Tests.Unit.csproj" />
+  <Project Path="WpfApp1/WpfApp1.csproj" />
+</Solution>
